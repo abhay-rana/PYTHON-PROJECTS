@@ -1,0 +1,5 @@
+temp is : 17 degree celsius
+wind speed is : 4.6 m\s
+latitude is : 28.65
+longitude is : 77.22
+description is : haze
